@@ -14,5 +14,5 @@ Go to project directory and run (make sure you have node installed first)
 
 ### JSON Server
 ```
-
+json-server --watch db.json --port 8000
 ```
