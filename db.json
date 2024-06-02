@@ -1,0 +1,188 @@
+{
+    "schools": [
+      {
+        "id": 1,
+        "name": "Kamusinga High",
+        "type": "Secondary",
+        "county": "Bungoma",
+        "product" : "Zeraki Analysis",
+        "registration" : "20-01-2001",
+        "contact": " 020 1232 4653",
+        "balances" : "$5,000"
+
+      },
+      {
+        "id": 2,
+        "name": "Little Angels",
+        "type": "Kindergarten",
+        "county": "Kiambu",
+        "product" : "Zeraki Timetable",
+        "registration" : "15-04-1999",
+        "contact": " 254 71232 4653",
+        "balances" : "$45,000"
+      },
+      {
+        "id": 3,
+        "name": "St.Andrew Turi",
+        "type": "IGCSE",
+        "county": "Molo",
+        "product" : "Zeraki Finance",
+        "registration" : "30-07-2005",
+        "contact": " 254 72562 8976",
+        "balances" : "$105,000"
+      },
+      {
+        "id": 4,
+        "name": "Westlands Primary ",
+        "type": "Primary",
+        "county": "Nairobi",
+        "product" : "Zeraki Analysis",
+        "registration" : "22-04-1989",
+        "contact": " 020 1232 4653",
+        "balances" : "$35,000"
+      },
+
+      {
+      "id": 5,
+      "name": "Kamusinga High",
+      "type": "Secondary",
+      "county": "Bungoma",
+      "product" : "Zeraki Analysis",
+      "registration" : "20-01-2001",
+      "contact": " 020 1232 4653",
+      "balances" : "$5,000"
+
+    },
+    {
+      "id": 6,
+      "name": "Little Angels",
+      "type": "Kindergarten",
+      "county": "Kiambu",
+      "product" : "Zeraki Timetable",
+      "registration" : "15-04-1999",
+      "contact": " 254 71232 4653",
+      "balances" : "$45,000"
+    },
+    {
+      "id": 7,
+      "name": "St.Andrew Turi",
+      "type": "IGCSE",
+      "county": "Molo",
+      "product" : "Zeraki Finance",
+      "registration" : "30-07-2005",
+      "contact": " 254 72562 8976",
+      "balances" : "$105,000"
+    },
+    {
+      "id": 8,
+      "name": "Westlands Primary ",
+      "type": "Primary",
+      "county": "Nairobi",
+      "product" : "Zeraki Analysis",
+      "registration" : "22-04-1989",
+      "contact": " 020 1232 4653",
+      "balances" : "$35,000"
+    }
+    ],
+
+    "invoices" :  [
+        {
+          "id": 1,
+          "number": "turi_7617168600",
+          "item": "A8FETD",
+          "paid": "01-05-2024",
+          "balance": "12,454",
+          "created": "03/12/2022"
+        },
+        {
+          "id": 2,
+          "number": "alli_9916342586",
+          "item": "H6F876",
+          "paid": "30-03-2022",
+          "balance": "2,288",
+          "created": "06/15/2021"
+        },
+        {
+          "id": 3,
+          "number": "west_9549636571",
+          "item": "@J8HG6",
+          "paid": "12-11-2022",
+          "balance": "6,739",
+          "created": "05/02/2022"
+        },
+        {
+          "id": 4,
+          "number": "litl_8393803409",
+          "item": "J5FU7S",
+          "paid": "25-08-2023",
+          "balance": "742",
+          "created": "21/03/2022"
+        },
+        {
+          "id": 5,
+          "number": "turi_7617168600",
+          "item": "A8FETD",
+          "paid": "01-05-2024",
+          "balance": "12,454",
+          "created": "03/12/2022"
+        },
+        {
+          "id": 6,
+          "number": "alli_9916342586",
+          "item": "H6F876",
+          "paid": "30-03-2022",
+          "balance": "2,288",
+          "created": "06/15/2021"
+        },
+        {
+          "id": 7,
+          "number": "west_9549636571",
+          "item": "@J8HG6",
+          "paid": "12-11-2022",
+          "balance": "6,739",
+          "created": "05/02/2022"
+        },
+        {
+          "id": 8,
+          "number": "litl_8393803409",
+          "item": "J5FU7S",
+          "paid": "25-08-2023",
+          "balance": "742",
+          "created": "21/03/2022"
+        }
+      ],
+      "collections" : [
+                 {
+            "id": 1,
+            "invoicenumber": "december_8393803409",
+            "collectionnumber": "KU7835F",
+            "collectiondate": "02-12-2022",
+            "amount": "12,454",
+            "status": "Bounced"
+          },
+          {
+            "id": 2,
+            "invoicenumber": "october_034527638",
+            "collectionnumber": "RE46S25",
+            "collectiondate": "16-10-2023",
+            "amount": "3,268",
+            "status": "valid"
+          },
+          {
+            "id": 3,
+            "invoicenumber": "august_964713352",
+            "collectionnumber": "VY75634",
+            "collectiondate": "25-08-2022",
+            "amount": "87,656",
+            "status": "Bounced"
+          },
+          {
+            "id": 4,
+            "invoicenumber": "july_8393803409",
+            "collectionnumber": "F26TYR78",
+            "collectiondate": "25-07-2023",
+            "amount": "2,288",
+            "status": "valid"
+          }
+      ]
+    }
